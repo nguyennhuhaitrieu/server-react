@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung A50 123",
+      "price": "350",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Iphone XS Max",
+      "price": "1200",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Iphone 5",
+      "price": "220",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Vivo V15",
+      "price": "400",
+      "status": true
+    }
+  ]
+}
